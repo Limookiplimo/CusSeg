@@ -4,4 +4,4 @@ Segmenting customers into clusters using KMeans.
 
 ![Clusters](static/clus_biv.png)
 
-Generated clusters.
+Generated cluster segments.
